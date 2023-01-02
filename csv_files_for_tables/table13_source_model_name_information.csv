@@ -1,0 +1,7 @@
+source,world,flange,world joints,world links,flange joints,flange links
+ros-industrial,27,183,13,14,105,78
+matlab,30,14,15,15,9,5
+robotics-toolbox,12,0,5,7,0,0
+drake,1,0,1,0,0,0
+oems,24,0,12,12,0,0
+random,112,0,53,59,0,0

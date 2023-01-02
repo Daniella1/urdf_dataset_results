@@ -1,0 +1,9 @@
+type,count
+robotic arm,198
+end effector,23
+mobile robot,20
+humanoid robot,11
+dual arm robot,9
+mobile manipulator,8
+quadrupedal robot,4
+unknown,1

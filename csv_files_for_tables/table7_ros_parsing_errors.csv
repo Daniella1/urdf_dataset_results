@@ -1,0 +1,10 @@
+errors,count,urdf file,source
+joint limit: no effort,1,['robotiq_tendons.urdf'],['drake']
+joint xml is not initialized correctly,2,"['robotiq_tendons.urdf', 'pr2_simplified.urdf']","['drake', 'drake']"
+could not parse limit element for joint [finger_tensioner],1,['robotiq_tendons.urdf'],['drake']
+model parsing the xml failed,9,"['robotiq_tendons.urdf', 'pr2_simplified.urdf', 'open_manipulator.urdf', 'r2_left_gripper.urdf', 'imu_test.urdf', 'test_bench.urdf', 'spot_arm.urdf', 'imu_test.urdf', 'test_bench.urdf']","['drake', 'drake', 'oems', 'random', 'random', 'random', 'random', 'robotics-toolbox', 'robotics-toolbox']"
+joint [x] is of type prismatic without limits,1,['pr2_simplified.urdf'],['drake']
+no name given for the robot.,1,['open_manipulator.urdf'],['oems']
+link 'r2/left_leg/ati' is not unique.,1,['r2_left_gripper.urdf'],['random']
+no link elements found in urdf file,4,"['imu_test.urdf', 'test_bench.urdf', 'imu_test.urdf', 'test_bench.urdf']","['random', 'random', 'robotics-toolbox', 'robotics-toolbox']"
+"failed to build tree: parent link [body] of joint [base_arm_joint] not found.  this is not valid according to the urdf spec. every link you refer to from a joint needs to be explicitly defined in the robot description. to fix this problem you can either remove this joint [base_arm_joint] from your urdf file, or add ""<link name=""body"" />"" to your urdf file.",1,['spot_arm.urdf'],['random']

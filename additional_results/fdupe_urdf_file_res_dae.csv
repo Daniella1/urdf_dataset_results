@@ -1,0 +1,16 @@
+robot,source,n_identical_files
+ur3e,"{'matlab', 'ros-industrial'}",7
+ur10e,"{'matlab', 'ros-industrial'}",7
+ur5e,"{'matlab', 'ros-industrial'}",7
+pr2,"{'random', 'matlab'}",18
+pr2,"{'random', 'matlab', 'robotics-toolbox'}",5
+pr2,"{'random', 'robotics-toolbox'}",5
+2f-85 gripper,"{'matlab', 'ros-industrial'}",10
+kinova_description,"{'oems', 'matlab', 'robotics-toolbox'}",7
+movo,"{'oems', 'matlab', 'robotics-toolbox'}",4
+kinova_description,"{'oems', 'robotics-toolbox'}",7
+valkyrie,"{'random', 'matlab', 'robotics-toolbox'}",52
+valkyrie,"{'random', 'robotics-toolbox'}",75
+kuka lbr iiwa 14,"{'ros-industrial', 'robotics-toolbox'}",8
+ur10,"{'random', 'robotics-toolbox'}",1
+fetch,"{'random', 'robotics-toolbox'}",13

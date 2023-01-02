@@ -1,0 +1,32 @@
+source,type,count
+drake,robotic arm,7
+drake,end effector,5
+drake,humanoid robot,2
+drake,mobile manipulator,1
+drake,dual arm robot,1
+matlab,robotic arm,33
+matlab,mobile robot,10
+matlab,dual arm robot,3
+matlab,humanoid robot,3
+matlab,mobile manipulator,2
+matlab,end effector,1
+oems,robotic arm,19
+oems,mobile robot,8
+oems,dual arm robot,3
+oems,quadrupedal robot,2
+oems,humanoid robot,1
+random,end effector,10
+random,robotic arm,9
+random,humanoid robot,4
+random,mobile manipulator,2
+random,quadrupedal robot,2
+random,mobile robot,1
+random,unknown,1
+random,dual arm robot,1
+robotics-toolbox,robotic arm,23
+robotics-toolbox,mobile manipulator,3
+robotics-toolbox,humanoid robot,1
+robotics-toolbox,mobile robot,1
+robotics-toolbox,dual arm robot,1
+ros-industrial,robotic arm,107
+ros-industrial,end effector,7

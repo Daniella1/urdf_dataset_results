@@ -1,0 +1,2 @@
+warnings,count,urdf file,source
+link 'finger_tensioner' material 'orange' undefined.,1,['robotiq_tendons.urdf'],['drake']
