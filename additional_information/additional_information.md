@@ -6,7 +6,7 @@
 ### Manually Generating URDF Files Using Xacro
 
 To generate URDF files using xacro we used ROS noetic with Ubuntu 20.04.
-For each robot we cloned the [GitHub repository](https://github.com/Kinovarobotics/kinova-ros), and followed the instructions for installing each repository as a ROS package.
+For each robot we cloned the GitHub repository, and followed the instructions for installing each repository as a [ROS package](https://github.com/Kinovarobotics/kinova-ros).
 For generating the new URDF files from xacro files, we ran the following command:
 ```
 rosrun xacro xacro urdf/robot_name.xacro > new_urdfs/robot_name.urdf
