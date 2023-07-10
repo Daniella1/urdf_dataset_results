@@ -1,0 +1,70 @@
+manufacturer,source,count
+ABB,matlab,4
+ABB,random,1
+ABB,robotics-toolbox,3
+ABB,ros-industrial,24
+ANYbotics,oems,1
+ANYbotics,random,1
+Adept Mobile Robots,matlab,3
+Adept Mobile Robots,oems,4
+Barrett Technology,random,1
+Boston Dynamics,drake,2
+Boston Dynamics,matlab,1
+Boston Dynamics,oems,1
+Boston Dynamics,random,2
+Clearpath Robotics,matlab,3
+Clearpath Robotics,oems,1
+Fanuc,matlab,2
+Fanuc,ros-industrial,40
+Fetch Robotics,random,1
+Fetch Robotics,robotics-toolbox,3
+Franka Emika,matlab,1
+Franka Emika,oems,3
+Franka Emika,random,1
+Franka Emika,robotics-toolbox,2
+Halodi,oems,1
+Halodi,random,1
+KUKA,drake,8
+KUKA,matlab,2
+KUKA,random,1
+KUKA,robotics-toolbox,1
+KUKA,ros-industrial,14
+Kinova Robotics,matlab,12
+Kinova Robotics,oems,11
+Kinova Robotics,robotics-toolbox,2
+Lynxmotion,robotics-toolbox,1
+Mecademic Robotics,matlab,1
+Mobile Industrial Robots,random,1
+NASA,matlab,1
+NASA,random,14
+NASA,robotics-toolbox,14
+Onrobot,random,6
+Paaila Technology,random,1
+Quanser,matlab,3
+Quanser,oems,1
+ROBOTIS,matlab,7
+ROBOTIS,oems,9
+Rethink Robotics,matlab,2
+Rethink Robotics,oems,3
+Robotiq,drake,3
+Robotiq,matlab,1
+Robotiq,random,1
+Robotiq,ros-industrial,6
+Schunk,random,6
+Star Wars Character,random,23
+Staubli,ros-industrial,12
+Trossen Robotics,robotics-toolbox,11
+Unimation,robotics-toolbox,1
+Universal Robots,matlab,7
+Universal Robots,random,2
+Universal Robots,robotics-toolbox,3
+Universal Robots,ros-industrial,7
+Willow Garage,drake,1
+Willow Garage,matlab,1
+Willow Garage,random,1
+Willow Garage,robotics-toolbox,1
+Wonik Robotics,drake,2
+Yaskawa Motoman,matlab,1
+Yaskawa Motoman,ros-industrial,5
+unknown,random,3
+unknown,robotics-toolbox,2

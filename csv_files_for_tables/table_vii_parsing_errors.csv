@@ -1,0 +1,7 @@
+,n_urdfs,sources
+Issue with joint limits,3,['drake']
+No link elements found in URDF file,4,"['random', 'random', 'robotics-toolbox', 'robotics-toolbox']"
+Non-unique link,1,['random']
+No name given for robot,1,['oems']
+Parent link not found,3,['random']
+XML parsing failed,11,"['drake', 'drake', 'oems', 'oems', 'oems', 'random', 'random', 'random', 'random', 'robotics-toolbox', 'robotics-toolbox']"

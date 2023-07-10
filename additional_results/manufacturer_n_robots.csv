@@ -1,33 +1,33 @@
 manufacturer,count
 Fanuc,42
 ABB,32
+NASA,29
 KUKA,26
 Kinova Robotics,25
-Universal Robots,24
+Star Wars Character,23
+Universal Robots,19
 ROBOTIS,16
 Staubli,12
-Robotiq,12
 Trossen Robotics,11
+Robotiq,11
 Franka Emika,7
 Adept Mobile Robots,7
 Yaskawa Motoman,6
 Boston Dynamics,6
 Onrobot,6
 Schunk,6
-Fetch Robotics,4
-Clearpath Robotics,4
-Willow Garage,4
+unknown,5
+Rethink Robotics,5
 Quanser,4
-Rethink Robotics,3
-NASA,3
+Willow Garage,4
+Clearpath Robotics,4
+Fetch Robotics,4
+Wonik Robotics,2
 Halodi,2
 ANYbotics,2
-Wonik Robotics,2
 Paaila Technology,1
-unknown,1
-Star Wars Character,1
-Barrett Technology,1
 Mobile Industrial Robots,1
 Lynxmotion,1
 Unimation,1
 Mecademic Robotics,1
+Barrett Technology,1

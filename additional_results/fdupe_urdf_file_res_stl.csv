@@ -1,31 +1,25 @@
 robot,source,n_identical_files
+2f-85 gripper,"{'matlab', 'ros-industrial'}",3
+lr mate 200ib,"{'matlab', 'ros-industrial'}",8
+ur16e,"{'matlab', 'ros-industrial'}",2
 ur3e,"{'matlab', 'ros-industrial'}",7
 ur10e,"{'matlab', 'ros-industrial'}",7
 ur5e,"{'matlab', 'ros-industrial'}",7
-jackal,"{'oems', 'matlab'}",14
-yumi,"{'random', 'matlab', 'robotics-toolbox'}",20
-yumi,"{'random', 'robotics-toolbox'}",20
-franka panda,"{'oems', 'matlab', 'random'}",18
-franka panda,"{'random', 'oems'}",9
-franka panda,"{'random', 'matlab'}",2
-irb1600,"{'matlab', 'ros-industrial'}",14
-irb120,"{'matlab', 'ros-industrial'}",14
-lr mate 200ib,"{'matlab', 'ros-industrial'}",16
-2f-85 gripper,"{'matlab', 'ros-industrial'}",3
-turtlebot3_description,"{'oems', 'matlab'}",2
-open manipulator,"{'oems', 'matlab'}",7
-amr_robots_description,"{'oems', 'matlab'}",24
-ur10,"{'random', 'matlab', 'robotics-toolbox', 'ros-industrial'}",14
-ur10,"{'random', 'ros-industrial', 'robotics-toolbox'}",7
-ur10,"{'ros-industrial', 'robotics-toolbox'}",7
-ur5,"{'random', 'matlab', 'robotics-toolbox', 'ros-industrial'}",14
-ur5,"{'random', 'ros-industrial', 'robotics-toolbox'}",7
-ur5,"{'ros-industrial', 'robotics-toolbox'}",7
-ur3,"{'matlab', 'robotics-toolbox', 'ros-industrial'}",14
-ur3,"{'ros-industrial', 'robotics-toolbox'}",7
+irb 120t-3/0.6,"{'matlab', 'ros-industrial'}",14
+irb 1600,"{'matlab', 'ros-industrial'}",10
 motoman mh5,"{'matlab', 'ros-industrial'}",14
-kuka lbr iiwa 14,"{'ros-industrial', 'robotics-toolbox'}",8
-pr2,"{'random', 'robotics-toolbox'}",40
-pr2,"{'random', 'drake', 'matlab', 'robotics-toolbox'}",32
-pr2,"{'random', 'matlab', 'robotics-toolbox'}",32
+panda,"{'random', 'matlab'}",1
 pr2,"{'drake', 'matlab'}",8
+open manipulator,"{'oems', 'matlab'}",7
+turtlebot 3 burger,"{'oems', 'matlab'}",2
+panda,"{'random', 'oems', 'matlab'}",9
+jackal,"{'oems', 'matlab'}",14
+pioneer lx,"{'oems', 'matlab'}",24
+lbr iiwa 14 r820,"{'robotics-toolbox', 'ros-industrial'}",8
+yumi,"{'random', 'robotics-toolbox', 'matlab'}",20
+pr2,"{'random', 'robotics-toolbox', 'drake', 'matlab'}",31
+pr2,"{'random', 'robotics-toolbox'}",9
+ur5,"{'random', 'robotics-toolbox', 'matlab', 'ros-industrial'}",6
+ur5,"{'random', 'robotics-toolbox', 'matlab'}",1
+ur10,"{'random', 'robotics-toolbox', 'matlab', 'ros-industrial'}",7
+ur3,"{'robotics-toolbox', 'matlab', 'ros-industrial'}",7

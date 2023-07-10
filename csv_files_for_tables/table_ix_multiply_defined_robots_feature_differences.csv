@@ -1,0 +1,6 @@
+,n_robots
+n_joints,9
+n_links,9
+cad_file_type,6
+forward_kin,11
+n_lines,38

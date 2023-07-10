@@ -1,16 +1,21 @@
 robot,source,n_identical_files
+2f-85 gripper,"{'matlab', 'ros-industrial'}",10
+ur16e,"{'matlab', 'ros-industrial'}",2
 ur3e,"{'matlab', 'ros-industrial'}",7
 ur10e,"{'matlab', 'ros-industrial'}",7
 ur5e,"{'matlab', 'ros-industrial'}",7
 pr2,"{'random', 'matlab'}",18
-pr2,"{'random', 'matlab', 'robotics-toolbox'}",5
-pr2,"{'random', 'robotics-toolbox'}",5
-2f-85 gripper,"{'matlab', 'ros-industrial'}",10
-kinova_description,"{'oems', 'matlab', 'robotics-toolbox'}",7
-movo,"{'oems', 'matlab', 'robotics-toolbox'}",4
-kinova_description,"{'oems', 'robotics-toolbox'}",7
-valkyrie,"{'random', 'matlab', 'robotics-toolbox'}",52
-valkyrie,"{'random', 'robotics-toolbox'}",75
-kuka lbr iiwa 14,"{'ros-industrial', 'robotics-toolbox'}",8
-ur10,"{'random', 'robotics-toolbox'}",1
+anymal,"{'random', 'oems'}",8
+turtlebot 2,"{'oems', 'matlab'}",2
+lbr iiwa 14 r820,"{'robotics-toolbox', 'ros-industrial'}",8
+pr2,"{'random', 'robotics-toolbox', 'matlab'}",5
+gen3,"{'robotics-toolbox', 'oems'}",10
+gen3,"{'robotics-toolbox', 'oems', 'matlab'}",7
+ur5,"{'robotics-toolbox', 'ros-industrial'}",6
+ur10,"{'robotics-toolbox', 'ros-industrial'}",6
+ur10,"{'random', 'robotics-toolbox', 'ros-industrial'}",1
+ur3,"{'robotics-toolbox', 'ros-industrial'}",7
+panda,"{'robotics-toolbox', 'oems'}",10
+valkyrie,"{'random', 'robotics-toolbox', 'matlab'}",52
+valkyrie,"{'random', 'robotics-toolbox'}",17
 fetch,"{'random', 'robotics-toolbox'}",13

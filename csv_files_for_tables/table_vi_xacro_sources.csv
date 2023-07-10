@@ -1,0 +1,7 @@
+source,MANUALLY generated WITH xacro,ORIGINALLY generated WITH xacro,ORIGINALLY generated WITHOUT xacro
+drake,0,16,0
+matlab,0,49,3
+oems,26,6,3
+random,12,49,6
+robotics-toolbox,17,24,3
+ros-industrial,90,18,0

@@ -1,0 +1,8 @@
+,yourdfpy,urdfpy,pybullet,roboticstoolbox,matlab,check_urdf
+ros-industrial,106,0,90,108,108,108
+matlab,21,0,39,50,52,52
+robotics-toolbox,25,0,36,42,42,42
+drake,8,0,0,14,14,14
+oems,17,1,30,31,31,32
+random,43,6,57,61,62,63
+total,220,7,252,306,309,311
