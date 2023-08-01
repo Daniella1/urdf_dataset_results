@@ -1,0 +1,9 @@
+robot,filetype,sources,#identical files
+pr2,stl,"{'drake', 'matlab'}",8
+pr2,stl,"{'drake', 'robotics-toolbox', 'matlab', 'random'}",31
+pr2,stl,"{'robotics-toolbox', 'random'}",9
+pr2,dae,"{'matlab', 'random'}",18
+pr2,dae,"{'robotics-toolbox', 'matlab', 'random'}",5
+panda,stl,"{'matlab', 'random'}",1
+panda,stl,"{'oems', 'matlab', 'random'}",9
+panda,dae,"{'robotics-toolbox', 'oems'}",10
